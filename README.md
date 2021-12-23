@@ -1,6 +1,4 @@
 # PredicateBuilder
-Dynamic Linq predicate builder based on a blog post by Pete Montgomery
-# DWD.UI.PredicateBuiilder
 PredicateBuilder provides a concise means of building complex dynamic queries in LInQ.
 
 This implementation was adapted from a [blog post](https://petemontgomery.wordpress.com/2011/02/10/a-universal-predicatebuilder/) by Pete Montgomery.
